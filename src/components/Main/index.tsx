@@ -8,7 +8,7 @@ const Main = ({
         <Logo
             src="/img/logo.svg"
             alt="Imagem de um átomo e React avaçado escrito ao lado."
-            title="React avaçado"
+            title="Logo react avaçado"
         />
         <Title>{title}</Title>
         <Description>{description}</Description>

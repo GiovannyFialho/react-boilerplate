@@ -52,7 +52,7 @@ exports[`<Main /> renderização de título 1`] = `
     alt="Imagem de um átomo e React avaçado escrito ao lado."
     class="c1"
     src="/img/logo.svg"
-    title="React avaçado"
+    title="Logo react avaçado"
   />
   <h1
     class="c2"
