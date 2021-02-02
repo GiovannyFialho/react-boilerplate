@@ -25,3 +25,13 @@ test:watch
 ```shell
 yarn storybook
 ```
+## Criação de componente automático
+> Utilizando Plop podemos automatizar criação de arquivos, no caso do boilerplate o comando abaixo criar componentes React de forma automática.
+### Ao executar esse comando é preciso responder a pergunta do script com relação ao nome do componente
+```shell
+yarn generate
+```
+### Ou usar dessa forma onde você faz o comando e já escreve o nome do componente
+```shell
+yarn generate nomeComponente
+```

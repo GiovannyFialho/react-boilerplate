@@ -2,7 +2,7 @@ import { Wrapper, Title, Description, Logo, Illustration } from "./styles";
 
 const Main = ({
     title = "React Boilerplate",
-    description = "Typescript, ReactJS, NextJS e Styled Components"
+    description = "Typescript, ReactJS, NextJS, Styled Components, Jest e Storybook"
 }) => (
     <Wrapper>
         <Logo
