@@ -12,6 +12,12 @@ yarn
 ```shell
 yarn dev
 ```
+
+## Husky
+Para o husky funcionar é preciso iniciar ele no projeto
+```shell
+yarn husky init
+```
 ## Testes
 ### Comando para rodar teste
 ```shell
