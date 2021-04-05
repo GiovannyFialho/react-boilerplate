@@ -3201,25 +3201,27 @@
     npmlog "^4.1.2"
     pretty-hrtime "^1.0.3"
 
+
 "@storybook/postinstall@6.2.2":
   version "6.2.2"
   resolved "https://registry.yarnpkg.com/@storybook/postinstall/-/postinstall-6.2.2.tgz#ee15434c692ef2b2a79aa68d9f68a91a62cad63c"
   integrity sha512-+60VbHtY9/YPFgPl4nZEpG3Yaosczl1mUb+EUQasVKX2M/oTJ1cGtYMNAYV65S16GdsqgBP2sWBI72TWptCFpQ==
+
   dependencies:
     core-js "^3.8.2"
 
-"@storybook/react@^6.2.1":
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.2.1.tgz#d07d5dc3b48823527a6a632189008d4a2c9399be"
-  integrity sha512-k9muo4BqItVnCNx45uQAUP9gQOtEBMQljrUD+UesTxZ11gfWPE4QeUHryJJUsA3ojKtUN8VAQawwHp/5cSFDFw==
+"@storybook/react@^6.2.2":
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.2.2.tgz#994160f42d0240bb433b4f203d9093b99008f7ac"
+  integrity sha512-uHmN5Cqo59eX0LPW5/xRHmSvO3MRg/2Y1lIBr1ZXI4fJ7UPDqZEyrE6MTikcvqe5kghTEBTxlO1n9imej9Ccgw==
   dependencies:
     "@babel/preset-flow" "^7.12.1"
     "@babel/preset-react" "^7.12.10"
     "@pmmmwh/react-refresh-webpack-plugin" "^0.4.3"
-    "@storybook/addons" "6.2.1"
-    "@storybook/core" "6.2.1"
-    "@storybook/core-common" "6.2.1"
-    "@storybook/node-logger" "6.2.1"
+    "@storybook/addons" "6.2.2"
+    "@storybook/core" "6.2.2"
+    "@storybook/core-common" "6.2.2"
+    "@storybook/node-logger" "6.2.2"
     "@storybook/semver" "^7.3.2"
     "@types/webpack-env" "^1.16.0"
     babel-plugin-add-react-displayname "^0.0.5"
