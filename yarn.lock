@@ -2257,7 +2257,10 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@storybook/addon-actions@6.2.7", "@storybook/addon-actions@^6.2.5":
+
+
+
+"@storybook/addon-actions@^6.2.7":
   version "6.2.7"
   resolved "https://registry.yarnpkg.com/@storybook/addon-actions/-/addon-actions-6.2.7.tgz#ca0500f5eb7017d3e2b4f6ee570c3650e495c7d9"
   integrity sha512-v0zgJfrgTY5di7pCUZnA5CLSu8LNcq2rwLuQ2I3qiLYszZ9Gdst5kdekMPgiz7Dk8c6GOpml/IMISnEUKBskVQ==
@@ -2280,10 +2283,8 @@
     util-deprecate "^1.0.2"
     uuid-browser "^3.1.0"
 
+
 "@storybook/addon-backgrounds@6.2.7":
-  version "6.2.7"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-backgrounds/-/addon-backgrounds-6.2.7.tgz#bff551aac15896282ee06fc323fd38cbe4a570c9"
-  integrity sha512-rXig9GtAAIVre8UaL9JeYi52bGA+DUQnO4fxQlN0x7s4Zftjz97m4xcsmg2UiC/HO9mG3SyMtk8eefPUSya+dg==
   dependencies:
     "@storybook/addons" "6.2.7"
     "@storybook/api" "6.2.7"
