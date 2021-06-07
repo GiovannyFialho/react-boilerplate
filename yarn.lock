@@ -2658,9 +2658,9 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@^17.0.5":
-  version "17.0.5"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.5.tgz#3d887570c4489011f75a3fc8f965bf87d09a1bea"
+"@types/react@*", "@types/react@^17.0.9":
+  version "17.0.9"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.9.tgz#1147fb520024a62c9b3841f5cb4db89b73ddb87f"
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -2829,6 +2829,7 @@
     is-glob "^4.0.1"
     semver "^7.3.5"
     tsutils "^3.21.0"
+
 "@typescript-eslint/visitor-keys@4.23.0":
   version "4.23.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/visitor-keys/-/visitor-keys-4.23.0.tgz#7215cc977bd3b4ef22467b9023594e32f9e4e455"
