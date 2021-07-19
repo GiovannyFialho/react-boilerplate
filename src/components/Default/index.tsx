@@ -1,9 +1,9 @@
 import {
     Typescript,
-    StyledComponents,
+    Styledcomponents,
     Jest,
     Storybook,
-    NextDotJs
+    Nextdotjs
 } from "@styled-icons/simple-icons";
 import { ReactLogo } from "@styled-icons/boxicons-logos/ReactLogo";
 
@@ -26,8 +26,8 @@ const Default = ({ title, techs }: DefaultProps) => {
     const techIcons = {
         typescript: <Typescript title="typescript" />,
         reactJS: <ReactLogo title="React JS" />,
-        nextJS: <NextDotJs title="Next JS" />,
-        styledComponents: <StyledComponents title="Styled Components" />,
+        nextJS: <Nextdotjs title="Next JS" />,
+        styledComponents: <Styledcomponents title="Styled Components" />,
         jest: <Jest title="Jest" />,
         storybook: <Storybook title="Storybook" />
     };
