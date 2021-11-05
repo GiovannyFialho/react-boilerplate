@@ -43,7 +43,7 @@
         "@storybook/addon-actions": "^6.3.12",
         "@testing-library/jest-dom": "^5.15.0",
         "@testing-library/react": "^12.1.2",
-        "@types/react": "^17.0.33",
+        "@types/react": "^17.0.34",
         "@types/jest": "^27.0.2",
         "@types/styled-components": "^5.1.15",
         "@typescript-eslint/parser": "^4.33.0",
